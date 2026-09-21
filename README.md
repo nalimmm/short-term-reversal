@@ -1,4 +1,4 @@
-# Short-Term Reversal: A Cross-Sectional Mean-Reversion Backtest
+# Short-Term Reversal Backtest
 
 A weekly-rebalanced, long-losers/short-winners equity strategy across 40
 liquid US large caps, backtested with the statistical checks needed to
